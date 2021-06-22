@@ -1,0 +1,135 @@
+﻿id_target_subtype,target_subtype,id_target_type
+1,Gas/Oil/Electric,1
+2,Restaurant/Bar/Café,1
+3,Bank/Commerce,1
+4,Multinational Corporation,1
+5,Industrial/Textiles/Factory,1
+6,Medical/Pharmaceutical,1
+7,Retail/Grocery/Bakery,1
+8,Hotel/Resort,1
+9,Farm/Ranch,1
+10,Mining,1
+11,Entertainment/Cultural/Stadium/Casino,1
+12,Construction,1
+13,Private Security Company/Firm,1
+14,Judge/Attorney/Court,2
+15,Politician or Political Party Movement/Meeting/Rally,2
+16,Royalty,2
+17,Head of State,2
+18,"Government Personnel (excluding police, military)",2
+19,Election-related,2
+20,Intelligence,2
+21,Government Building/Facility/Office,2
+22,"Police Building (headquarters, station, school)",3
+23,Police Patrol (including vehicles and convoys),3
+24,Police Checkpoint,3
+25,Police Security Forces/Officers,3
+26,Prison/Jail,3
+27,Military Barracks/Base/Headquarters/Checkpost,4
+28,Military Recruiting Station/Academy,4
+29,Military Unit/Patrol/Convoy,4
+30,Military Weaponry,4
+31,Military Aircraft,4
+32,Military Maritime,4
+33,Non-combatant Personnel,4
+34,"Military Personnel (soldiers, troops, officers, forces)",4
+35,Military Transportation/Vehicle (excluding convoys),4
+36,Military Checkpoint,4
+37,NATO,4
+38,Paramilitary,4
+39,Clinics,5
+40,Personnel,5
+41,Aircraft (not at an airport),6
+42,Airline Officer/Personnel,6
+43,Airport,6
+44,"Diplomatic Personnel (outside of embassy, consulate)",7
+45,Embassy/Consulate,7
+46,"International Organization (peacekeeper, aid agency, compound)",7
+47,Teacher/Professor/Instructor,8
+48,School/University/Educational Building,8
+49,Other Personnel,8
+50,Food Supply,9
+51,Water Supply,9
+52,Newspaper Journalist/Staff/Facility,10
+53,Radio Journalist/Staff/Facility,10
+54,Television Journalist/Staff/Facility,10
+55,Other (including online news agencies),10
+56,Civilian Maritime,11
+57,Commercial Maritime,11
+58,Oil Tanker,1
+59,Port,11
+60,Domestic NGO,12
+61,International NGO,12
+62,Ambulance,13
+63,Fire Fighter/Truck,13
+64,Refugee (including Camps/IDP/Asylum Seekers),14
+65,Demilitarized Zone (including Green Zone),13
+66,Unnamed Civilian/Unspecified,14
+67,Named Civilian,14
+68,Religion Identified,14
+69,Student,14
+70,Race/Ethnicity Identified,14
+71,Farmer,14
+72,Vehicles/Transportation,14
+73,Marketplace/Plaza/Square,14
+74,Village/City/Town/Suburb,14
+75,House/Apartment/Residence,14
+76,Laborer (General)/Occupation Identified,14
+77,"Procession/Gathering (funeral, wedding, birthday, religious)",14
+78,"Public Area (garden, parking lot, garage, beach, public building, camp)",14
+79,Memorial/Cemetery/Monument,14
+80,Museum/Cultural Center/Cultural House,14
+81,Labor Union Related,14
+82,Protester,14
+83,Political Party Member/Rally,14
+84,Religious Figure,15
+85,Place of Worship,15
+86,Affiliated Institution,15
+87,Radio,16
+88,Television,16
+89,Telephone/Telegraph,16
+90,Internet Infrastructure,16
+91,Multiple Telecommunication Targets,16
+92,Terrorist,17
+93,Non-State Militia,17
+94,Tourism Travel Agency,18
+95,Tour Bus/Van,18
+96,Tourist,18
+97,Other Facility,18
+98,Bus (excluding tourists),19
+99,Train/Train Tracks/Trolley,19
+100,Bus Station/Stop,19
+101,Subway,19
+102,Bridge/Car Tunnel,19
+103,Highway/Road/Toll/Traffic Signal,19
+104,Taxi/Rickshaw,19
+105,Gas,21
+106,Electricity,21
+107,Oil,21
+108,Party Official/Candidate/Other Personnel,22
+109,Party Office/Facility,22
+110,Rally,22
+111,Legal Services,1
+112,Alleged Informant,3
+113,Uknown Business Target Type,1
+114,Uknown Government (General) Target Type,2
+115,Uknown Police Target Type,3
+116,Uknown Military Target Type,4
+117,Uknown Abortion Related Target Type,5
+118,Uknown Airports & Aircraft Target Type,6
+119,Uknown Government (Diplomatic) Target Type,7
+120,Uknown Educational Institution Target Type,8
+121,Uknown Food or Water Supply Target Type,9
+122,Uknown Journalists & Media Target Type,10
+123,Uknown Maritime Target Type,11
+124,Uknown NGO Target Type,12
+125,Uknown Other Target Type,13
+126,Uknown Private Citizens & Property Target Type,14
+127,Uknown Religious Figures/Institutions Target Type,15
+128,Uknown Telecommunication Target Type,16
+129,Uknown Terrorists/Non-State Militia Target Type,17
+130,Uknown Tourists Target Type,18
+131,Uknown Transportation Target Type,19
+132,Uknown Target Type,20
+133,Uknown Utilities Target Type,21
+134,Uknown Violent Political Party Target Type,22

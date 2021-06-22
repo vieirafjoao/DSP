@@ -1,0 +1,41 @@
+﻿id_weapon_subtype,weapon_subtype,id_weapon_type
+1,Poisoning,2
+2,Automatic or Semi-Automatic Rifle,5
+3,Handgun,5
+4,Rifle/Shotgun (non-automatic),5
+5,Unknown Gun Type,5
+6,Other Gun Type,5
+7,Grenade,6
+8,Landmine,6
+9,Letter Bomb,6
+10,Pressure Trigger,6
+11,"Projectile (rockets, mortars, RPGs, etc.)",6
+12,Remote Trigger,6
+13,Suicide (carried bodily by human being),6
+14,Time Fuse,6
+15,Vehicle,6
+16,Unknown Explosive Type,6
+17,Other Explosive Type,6
+18,Arson/Fire,8
+19,Molotov Cocktail/Petrol Bomb,8
+20,Gasoline or Alcohol,8
+21,Blunt Object,9
+22,"Hands, Feet, Fists",9
+23,Knife or Other Sharp Object,9
+24,Rope or Other Strangling Device,9
+25,Suffocation,9
+26,Unknown Weapon Type,9
+27,Dynamite/TNT,6
+28,Sticky Bomb,6
+29,Explosive,2
+30,Pipe Bomb,6
+31,Unknown,13
+32,Unknown Incendiary Type,8
+33,Unknown Sabotage Equipment Type,11
+34,Unknown Chemical Type,2
+35,Vehicle,10
+36,Unknown Fake Weapon Type,7
+37,Unknown Radiological Type,3
+38,Unknown,12
+39,Unknown Biological Type,1
+40,Unknown Nuclear Type,4
